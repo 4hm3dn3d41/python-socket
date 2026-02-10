@@ -1,0 +1,9 @@
+{
+  "name": "Test File",
+  "version": "1.0",
+  "description": "This is a sample JSON file for testing.",
+  "items": [
+    {"id": 1, "name": "Item One"},
+    {"id": 2, "name": "Item Two"}
+  ]
+}
