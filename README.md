@@ -47,3 +47,5 @@ Choose secure (`y`) or unsecure (`n`), select a file, and it downloads to `folde
   * Secure: `53189`
   * Unsecure: `56723`
 * Requires Python 3.x and `pycryptodomex`
+
+19/05/2025
